@@ -1,6 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-  the_big_five = {"Mickey" => "mouse", "Minnie" => "mouse", "Donald" => "duck", "Goofy" => "dog", "Pluto" => "dog"}  
+  the_big_five = {"Mickey" => "mouse", "Minnie" => "mouse", "Donald" => "duck", "Goofy" => "dog", "Pluto" => "dog"}
 end
 
 
